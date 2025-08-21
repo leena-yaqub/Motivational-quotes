@@ -38,6 +38,8 @@ Users can mark their favorite quotes by tapping the heart icon ❤️ and view t
 <img width="305" height="602" alt="Screenshot 2025-08-21 032058" src="https://github.com/user-attachments/assets/fbdf3fa5-6482-4c56-ae34-05f8e5bdf4fc" />
 ![WhatsApp Image 2025-08-16 at 20 50 56_270d4a96](https://github.com/user-attachments/assets/853fd356-c648-446e-b0ff-16d3ab1efa2d)
 <img width="284" height="586" alt="Screenshot 2025-08-22 003935" src="https://github.com/user-attachments/assets/9d9663fb-806e-4c8a-acf1-1659d2318e9e" />
+![WhatsApp Image 2025-08-16 at 20 50 13_a7546ee4](https://github.com/user-attachments/assets/21ff5576-8da7-40c5-bd58-762a5cf9c05c)
+
 <img width="384" height="659" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/fb5cbdf1-65b6-4719-9630-fba247907338" />
 ![WhatsApp Image 2025-08-16 at 20 50 13_f57e6f34](https://github.com/user-attachments/assets/d07ccdce-37f3-43c7-8341-b6b7640dab83)
 <img width="307" height="607" alt="Screenshot 2025-08-21 212449" src="https://github.com/user-attachments/assets/5b1bd15e-d05a-4ac9-ade0-f385fba6fd8e" />
