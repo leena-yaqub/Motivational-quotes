@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Motivational Quote</string>
+
+    <!-- AdMob Ad Unit IDs -->
+    <!-- Replace with your actual AdMob ad unit IDs when you have them -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!-- UI Strings -->
+    <string name="choose_mood">Choose Your Mood</string>
+    <string name="motivate">Motivate</string>
+    <string name="love">Love</string>
+    <string name="success">Success</string>
+    <string name="wisdom">Wisdom</string>
+    <string name="life">Life</string>
+    <string name="happy">Happy</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+</resources>

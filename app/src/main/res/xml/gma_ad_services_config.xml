@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <ad-services-config>
+        <custom-audience-allow-list>
+            <package-name>com.example.motivationalquote</package-name>
+        </custom-audience-allow-list>
+    </ad-services-config>
+</config>
